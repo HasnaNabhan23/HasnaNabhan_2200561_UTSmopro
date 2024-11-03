@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "name": "Waffle caramel",
+        "description": "These homemade crispy waffles have a golden brown crunchy outside while staying light and fluffy",
+        "price": "30000",
+        "image": "https://www.designeatrepeat.com/wp-content/uploads/2023/05/best-crispy-belgian-waffles-syrup.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Pancake",
+        "description": "This whole grain version of pancakes is fortified with a few ingredients that are perfect sources ",
+        "price": "35000",
+        "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2019/11/whole-grain-pancake-stack.jpg?quality=82&strip=1"
+    },
+    {
+        "id": "3",
+        "name": "Croissants",
+        "description": "These homemade vegan croissants are buttery, flaky, and fluffy." ,
+        "price": "32000",
+        "image": "https://sarahsvegankitchen.com/wp-content/uploads/2024/05/Vegan-Croissants-1.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Banana ice cream",
+        "description": "Delicious ice cream ",
+        "price": "24000",
+        "image": "https://d12man5gwydfvl.cloudfront.net/wp-content/uploads/2019/10/banana-split.jpg"
+    }
+]

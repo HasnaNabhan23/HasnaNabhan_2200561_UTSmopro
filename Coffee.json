@@ -1,0 +1,45 @@
+[
+    {
+        "id": "1",
+        "name": "Espresso",
+        "description": "Strong and bold coffee shot.",
+        "price": "25000",
+        "image": "https://asset.kompas.com/crops/_SfcFYf71wzjEp-eNLHB_subNpI=/0x0:1000x667/750x500/data/photo/2020/10/05/5f7a1e1a209d9.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Americano",
+        "description": "Middle of Espresso and bold coffee shot.",
+        "price": "35000",
+        "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//98/MTA-54187613/freshly_baked_by_origin_bakery_americano_full02_kd07blpv.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Cappucino",
+        "description": "mixed espresso with steamed milk and foamed milk.",
+        "price": "40000",
+        "image": "https://noir.web.id/wp-content/uploads/2022/04/jual-cappucino-terdekat.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Vanilla Coffee Frappuccino",
+        "description": "Its perfect blend of vanilla and coffee flavors",
+        "price": "35000",
+        "image": "https://www.sweetfixbaker.com/wp-content/uploads/2023/05/Vanilla-Coffee-Frappuccino-Recipe.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Matcha Frappe",
+        "description": "Matcha Frappe is optional menu",
+        "price": "32000",
+        "image": "https://140284859.cdn6.editmysite.com/uploads/1/4/0/2/140284859/s328314722926032458_p38_i1_w800.png?width=2400&optimize=medium"
+    },
+    {
+        "id": "6",
+        "name": "Hazelnut Frappe",
+        "description": "Hazelnut Frappe is optional menu",
+        "price": "30000",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ip8jUYA-Knu1wRlJFGrvFn1VwRKT0DsVjtpmklz2tK7V_b3idYzWE_4IPDBT_13o3io&usqp=CAU"
+    }
+    
+]
